@@ -1,0 +1,28 @@
+name: Travelagents-international.com
+favicon: null
+layout_spectrum: 0.8725325698032975
+typography_spectrum: 0.9542572856880724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.44237313815392554
+  lightness: 0.14952249941416085
+  saturation: 0.9830658526625484
+  rhythmicContrast: 0.6624052154365927
+purpose: []
